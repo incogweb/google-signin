@@ -1,5 +1,5 @@
 # **Google Sign In**  
-*A 1-to-1 replica of the Google sign in page using mostly HTML*
+*A 1-to-1 replica of the Google sign in page using HTML, works with M5Stacks*
 
 ---
 
